@@ -2,7 +2,7 @@
 
 I am fledgling software engineer and full-stack developer. I strive to think big by continuously being customer-focused and customer-obsessed. These are the high standards I insist upon myself, and I continue to raise the bar with each new task and opportunity. I personally own each project I work towards and ensure I deliver results to my colleagues and partners.
 
-🔭 I’m currently working on earning my Software Engineering certificate through General Assembly.
+
 
 🌱 I’m currently learning all things front-end and back-end! JavaScript is keeping me happily busy.
 
